@@ -1,0 +1,1183 @@
+2023-05-02 14:22:28,347 INFO a.Main [main] 
+Welcome John Marsh to RideAlong
+2023-05-02 14:22:28,349 INFO a.Main [main] 
+****************************************
+
+2023-05-02 14:22:28,349 INFO a.Main [main] To start a ride please enter your current address: 
+
+2023-05-02 14:22:28,349 INFO a.Main [main] Street: 
+2023-05-02 14:31:29,764 INFO a.Profile [main] Invalid phone number!
+2023-05-02 14:31:29,776 INFO a.Main [main] 
+Welcome John Marsh to RideAlong
+2023-05-02 14:31:29,776 INFO a.Main [main] 
+****************************************
+
+2023-05-02 14:31:29,776 INFO a.Main [main] To start a ride please enter your current address: 
+
+2023-05-02 14:31:29,777 INFO a.Main [main] Street: 
+2023-05-02 14:32:26,093 INFO a.Main [main] 
+Welcome John Marsh to RideAlong
+2023-05-02 14:32:26,099 INFO a.Main [main] 
+****************************************
+
+2023-05-02 14:32:26,099 INFO a.Main [main] To start a ride please enter your current address: 
+
+2023-05-02 14:32:26,099 INFO a.Main [main] Street: 
+2023-05-02 14:32:38,262 INFO a.Main [main] 
+City: 
+2023-05-02 14:32:44,056 INFO a.Main [main] 
+State: 
+2023-05-02 14:32:45,320 INFO a.Main [main] 
+ZipCode: 
+2023-05-02 14:32:49,105 INFO a.Main [main] 
+Now, where would you like to go?
+2023-05-02 14:32:49,105 INFO a.Main [main] 
+Street: 
+2023-05-02 14:33:03,782 INFO a.Main [main] 
+City: 
+2023-05-02 14:33:09,992 INFO a.Main [main] 
+State: 
+2023-05-02 14:33:11,696 INFO a.Main [main] 
+ZipCode: 
+2023-05-02 14:33:16,608 INFO a.Main [main] 
+Select a driver: 
+2023-05-02 14:33:16,608 INFO a.Main [main] 
+0: 
+2023-05-02 14:33:16,615 INFO a.Driver [main] 
+Gary Long : Compact  Rating{numberOfStars=5, reviews=[review='Gary was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-02 14:33:16,615 INFO a.Main [main] 
+1: 
+2023-05-02 14:33:16,615 INFO a.Driver [main] 
+Alex Albon : SUV  Rating{numberOfStars=3, reviews=[review='Alex was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-02 14:33:16,615 INFO a.Main [main] 
+Please enter the number corresponding to driver: 
+2023-05-02 14:33:37,305 INFO a.Company [main] 
+Gary Long has been notified of your ride.
+2023-05-02 14:33:37,305 INFO a.Main [main] 
+
+
+2023-05-02 14:33:37,306 INFO a.Main [main] Here are the details to your ride:
+2023-05-02 14:33:37,308 INFO a.Main [main] Ride{
+Current Location=Address{street='1234 Street AVe', city='los angeles', country='ca', zipCode='90001'},
+ Destination=Address{street='9876 Avenue st', city='san diego', country='ca', zipCode='98887'},
+ Driver=Driver{rating=Rating{numberOfStars=5, reviews=[review='Gary was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}, vehicle=app.Compact@485966cc},
+ Passenger=Passenger{rating=Rating{numberOfStars=4, reviews=[review='John was an excellent passenger.'}, review='Was a pleasure to have.'}, review='Great passenger.'}]}}}
+2023-05-02 14:33:37,309 INFO a.Main [main] 
+
+
+2023-05-02 14:33:37,309 INFO a.Driver [main] 
+Gary is on his way to your location
+2023-05-02 14:33:37,309 INFO a.Main [main] 
+Couple minutes later...
+
+
+2023-05-02 14:33:37,310 INFO a.Driver [main] 
+Gary has arrived at your location
+2023-05-02 14:33:37,310 INFO a.Main [main] 
+Couple more minutes later...
+
+
+2023-05-02 14:33:37,310 INFO a.Ride [main] 
+You have arrived to your destination
+2023-05-02 14:33:37,311 INFO a.Main [main] 
+Your ride cost: 15.0
+2023-05-02 14:33:37,311 INFO a.Passenger [main] 
+Passenger successfully paid 15.0
+2023-05-02 14:33:37,311 INFO a.Main [main] 
+ ********************
+Add a review for the driver below: 
+2023-05-03 15:10:22,876 INFO a.Profile [main] That is not a valid email!
+2023-05-03 15:10:22,888 INFO a.Main [main] 
+Welcome John Marsh to RideAlong
+2023-05-03 15:10:22,888 INFO a.Main [main] 
+****************************************
+
+2023-05-03 15:10:22,888 INFO a.Main [main] To start a ride please enter your current address: 
+
+2023-05-03 15:10:22,888 INFO a.Main [main] Street: 
+2023-05-05 16:03:58,907 INFO l.LinkedList [main] { 5 -> 7 }
+2023-05-05 16:06:40,773 INFO l.LinkedList [main] { 5 -> 7 }
+2023-05-05 16:06:51,560 INFO l.LinkedList [main] { 5 -> 7 -> 10 -> 15 -> 20 }
+2023-05-05 16:11:13,569 INFO l.LinkedList [main] { 5 -> 7 -> 10 -> 15 -> 20 }
+2023-05-05 16:11:13,572 INFO l.LinkedList [main] { Hello, -> test -> how -> are }
+2023-05-05 18:11:31,117 INFO f.Utils [main] null
+2023-05-05 18:12:05,908 INFO f.Utils [main] [Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]
+2023-05-05 18:13:39,553 INFO f.Utils [main] [Lorem ipsum dolor sit amet,, consectetur adipiscing elit,, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua., Ut enim ad minim veniam,, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat., Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur., Excepteur sint occaecat cupidatat non proident,, sunt in culpa qui officia deserunt mollit anim id est laborum.]
+2023-05-05 18:24:46,005 INFO f.Utils [main] [[Lorem, ipsum, dolor, sit, amet,, consectetur, adipiscing, elit,, sed, do, eiusmod, tempor, incididunt, ut, labore, et, dolore, magna, aliqua., Ut, enim, ad, minim, veniam,, quis, nostrud, exercitation, ullamco, laboris, nisi, ut, aliquip, ex, ea, commodo, consequat., Duis, aute, irure, dolor, in, reprehenderit, in, voluptate, velit, esse, cillum, dolore, eu, fugiat, nulla, pariatur., Excepteur, sint, occaecat, cupidatat, non, proident,, sunt, in, culpa, qui, officia, deserunt, mollit, anim, id, est, laborum.]]
+2023-05-05 18:25:43,450 INFO f.Utils [main] [[Lorem, ipsum, dolor, sit, amet, consectetur, adipiscing, elit, sed, do, eiusmod, tempor, incididunt, ut, labore, et, dolore, magna, aliqua., Ut, enim, ad, minim, veniam, quis, nostrud, exercitation, ullamco, laboris, nisi, ut, aliquip, ex, ea, commodo, consequat., Duis, aute, irure, dolor, in, reprehenderit, in, voluptate, velit, esse, cillum, dolore, eu, fugiat, nulla, pariatur., Excepteur, sint, occaecat, cupidatat, non, proident, sunt, in, culpa, qui, officia, deserunt, mollit, anim, id, est, laborum.]]
+2023-05-05 18:27:25,590 INFO f.Utils [main] 69
+2023-05-09 15:06:53,623 INFO c.s.p.f.Utils [main] how : 1
+
+2023-05-09 15:06:53,626 INFO c.s.p.f.Utils [main] are : 1
+
+2023-05-09 15:06:53,626 INFO c.s.p.f.Utils [main] you] : 1
+
+2023-05-09 15:06:53,626 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:07:20,159 INFO c.s.p.f.Utils [main] how : 1
+
+2023-05-09 15:07:20,162 INFO c.s.p.f.Utils [main] are : 1
+
+2023-05-09 15:07:20,162 INFO c.s.p.f.Utils [main] you, : 1
+
+2023-05-09 15:07:20,162 INFO c.s.p.f.Utils [main] Hello] : 1
+
+2023-05-09 15:07:20,162 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:08:01,493 INFO c.s.p.f.Utils [main] [[Hello, how, are, you,, Hello]]
+2023-05-09 15:08:01,498 INFO c.s.p.f.Utils [main] how : 1
+
+2023-05-09 15:08:01,498 INFO c.s.p.f.Utils [main] are : 1
+
+2023-05-09 15:08:01,499 INFO c.s.p.f.Utils [main] you, : 1
+
+2023-05-09 15:08:01,499 INFO c.s.p.f.Utils [main] Hello] : 1
+
+2023-05-09 15:08:01,499 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:08:51,827 INFO c.s.p.f.Utils [main] [[Ljava.lang.Object;@6283d8b8]
+2023-05-09 15:08:51,830 INFO c.s.p.f.Utils [main] [Ljava.lang.Object;@6283d8b8 : 1
+
+2023-05-09 15:09:30,015 INFO c.s.p.f.Utils [main] [[Hello, how, are, you,, Hello]]
+2023-05-09 15:09:30,020 INFO c.s.p.f.Utils [main] how : 1
+
+2023-05-09 15:09:30,020 INFO c.s.p.f.Utils [main] are : 1
+
+2023-05-09 15:09:30,020 INFO c.s.p.f.Utils [main] you, : 1
+
+2023-05-09 15:09:30,020 INFO c.s.p.f.Utils [main] Hello] : 1
+
+2023-05-09 15:09:30,020 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:10:33,523 INFO c.s.p.f.Utils [main] [[Ljava.lang.Object;@6283d8b8]
+2023-05-09 15:10:33,527 INFO c.s.p.f.Utils [main] [Ljava.lang.Object;@6283d8b8 : 1
+
+2023-05-09 15:11:44,141 INFO c.s.p.f.Utils [main] [[Hello, how, are, you,, Hello]]
+2023-05-09 15:11:44,146 INFO c.s.p.f.Utils [main] how : 1
+
+2023-05-09 15:11:44,147 INFO c.s.p.f.Utils [main] are : 1
+
+2023-05-09 15:11:44,147 INFO c.s.p.f.Utils [main] you, : 1
+
+2023-05-09 15:11:44,147 INFO c.s.p.f.Utils [main] Hello] : 1
+
+2023-05-09 15:11:44,147 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:13:40,241 INFO c.s.p.f.Utils [main] [[Hello, how, are, you,, Hello]]
+2023-05-09 15:13:40,244 INFO c.s.p.f.Utils [main] how : 1
+
+2023-05-09 15:13:40,244 INFO c.s.p.f.Utils [main] are : 1
+
+2023-05-09 15:13:40,245 INFO c.s.p.f.Utils [main] you, : 1
+
+2023-05-09 15:13:40,245 INFO c.s.p.f.Utils [main] Hello] : 1
+
+2023-05-09 15:13:40,245 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:15:35,860 INFO c.s.p.f.Utils [main] [[Hello, how, are, you,, Hello]]
+2023-05-09 15:15:35,865 INFO c.s.p.f.Utils [main] how : 1
+
+2023-05-09 15:15:35,865 INFO c.s.p.f.Utils [main] are : 1
+
+2023-05-09 15:15:35,865 INFO c.s.p.f.Utils [main] you, : 1
+
+2023-05-09 15:15:35,865 INFO c.s.p.f.Utils [main] Hello] : 1
+
+2023-05-09 15:15:35,865 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:18:45,671 INFO c.s.p.f.Utils [main] [[Hello, how, are, you, hello, how, are, you, I, am, okay]]
+2023-05-09 15:18:45,676 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:18:45,676 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:18:45,676 INFO c.s.p.f.Utils [main] okay] : 1
+
+2023-05-09 15:18:45,676 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:18:45,677 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:18:45,677 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:18:45,677 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:18:45,677 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:21:25,009 INFO c.s.p.f.Utils [main] [[Hello, how, are, you, hello, how, are, you, I, am, okay]]
+2023-05-09 15:21:25,014 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:21:25,014 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:21:25,014 INFO c.s.p.f.Utils [main] okay] : 1
+
+2023-05-09 15:21:25,015 INFO c.s.p.f.Utils [main] [Hello : 1
+
+2023-05-09 15:21:25,015 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:21:25,015 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:21:25,015 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:21:25,015 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:22:57,271 INFO c.s.p.f.Utils [main] [Hello, how, are, you, hello, how, are, you, I, am, okay]]
+2023-05-09 15:22:57,276 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:22:57,276 INFO c.s.p.f.Utils [main] Hello : 1
+
+2023-05-09 15:22:57,276 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:22:57,276 INFO c.s.p.f.Utils [main] okay] : 1
+
+2023-05-09 15:22:57,276 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:22:57,276 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:22:57,276 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:22:57,277 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:24:40,041 INFO c.s.p.f.Utils [main] [Hello how are you hello how are you I am okay]
+2023-05-09 15:24:40,044 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:24:40,044 INFO c.s.p.f.Utils [main] Hello : 1
+
+2023-05-09 15:24:40,045 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:24:40,045 INFO c.s.p.f.Utils [main] okay] : 1
+
+2023-05-09 15:24:40,045 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:24:40,045 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:24:40,045 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:24:40,045 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:25:30,661 INFO c.s.p.f.Utils [main] [Hello how are you hello how are you I am okay]
+2023-05-09 15:25:30,665 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:25:30,666 INFO c.s.p.f.Utils [main] Hello : 1
+
+2023-05-09 15:25:30,666 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:25:30,666 INFO c.s.p.f.Utils [main] okay] : 1
+
+2023-05-09 15:25:30,666 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:25:30,666 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:25:30,666 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:25:30,666 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:26:56,883 INFO c.s.p.f.Utils [main] Hello how are you hello how are you I am okay
+2023-05-09 15:26:56,887 INFO c.s.p.f.Utils [main] okay : 1
+
+2023-05-09 15:26:56,887 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:26:56,887 INFO c.s.p.f.Utils [main] Hello : 1
+
+2023-05-09 15:26:56,887 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:26:56,888 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:26:56,888 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:26:56,888 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:26:56,888 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:27:24,937 INFO c.s.p.f.Utils [main] okay : 1
+
+2023-05-09 15:27:24,942 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:27:24,942 INFO c.s.p.f.Utils [main] Hello : 1
+
+2023-05-09 15:27:24,942 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:27:24,942 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:27:24,942 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:27:24,942 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:27:24,942 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:27:49,623 INFO c.s.p.f.Utils [main] okay : 1
+
+2023-05-09 15:27:49,626 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:27:49,627 INFO c.s.p.f.Utils [main] Hello : 1
+
+2023-05-09 15:27:49,627 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:27:49,628 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:27:49,628 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:27:49,629 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:27:49,629 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:28:26,465 INFO c.s.p.f.Utils [main] okay : 1
+
+2023-05-09 15:28:26,470 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:28:26,470 INFO c.s.p.f.Utils [main] Hello : 1
+
+2023-05-09 15:28:26,471 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:28:26,472 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:28:26,472 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:28:26,473 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:28:26,473 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:31:27,323 INFO c.s.p.f.Utils [main] src\main\resources\output.txt
+2023-05-09 15:31:27,328 INFO c.s.p.f.Utils [main] src\main\resources\output.txt
+2023-05-09 15:31:27,329 INFO c.s.p.f.Utils [main] src\main\resources\output.txt
+2023-05-09 15:31:27,329 INFO c.s.p.f.Utils [main] src\main\resources\output.txt
+2023-05-09 15:31:27,330 INFO c.s.p.f.Utils [main] src\main\resources\output.txt
+2023-05-09 15:31:27,331 INFO c.s.p.f.Utils [main] src\main\resources\output.txt
+2023-05-09 15:31:27,332 INFO c.s.p.f.Utils [main] src\main\resources\output.txt
+2023-05-09 15:31:27,332 INFO c.s.p.f.Utils [main] src\main\resources\output.txt
+2023-05-09 15:31:47,000 INFO c.s.p.f.Utils [main] okay : 1
+
+2023-05-09 15:31:47,003 INFO c.s.p.f.Utils [main] how : 2
+
+2023-05-09 15:31:47,004 INFO c.s.p.f.Utils [main] Hello : 1
+
+2023-05-09 15:31:47,005 INFO c.s.p.f.Utils [main] are : 2
+
+2023-05-09 15:31:47,005 INFO c.s.p.f.Utils [main] I : 1
+
+2023-05-09 15:31:47,006 INFO c.s.p.f.Utils [main] hello : 1
+
+2023-05-09 15:31:47,006 INFO c.s.p.f.Utils [main] am : 1
+
+2023-05-09 15:31:47,007 INFO c.s.p.f.Utils [main] you : 2
+
+2023-05-09 15:33:52,516 INFO c.s.p.f.Utils [main] okay : 1
+2023-05-09 15:33:52,520 INFO c.s.p.f.Utils [main] how : 2
+2023-05-09 15:33:52,521 INFO c.s.p.f.Utils [main] Hello : 1
+2023-05-09 15:33:52,522 INFO c.s.p.f.Utils [main] are : 2
+2023-05-09 15:33:52,522 INFO c.s.p.f.Utils [main] I : 1
+2023-05-09 15:33:52,523 INFO c.s.p.f.Utils [main] hello : 1
+2023-05-09 15:33:52,524 INFO c.s.p.f.Utils [main] am : 1
+2023-05-09 15:33:52,524 INFO c.s.p.f.Utils [main] you : 2
+2023-05-09 15:34:03,069 INFO c.s.p.f.Utils [main] okay : 1
+2023-05-09 15:34:03,073 INFO c.s.p.f.Utils [main] how : 2
+2023-05-09 15:34:03,073 INFO c.s.p.f.Utils [main] Hello : 1
+2023-05-09 15:34:03,074 INFO c.s.p.f.Utils [main] are : 2
+2023-05-09 15:34:03,075 INFO c.s.p.f.Utils [main] I : 1
+2023-05-09 15:34:03,076 INFO c.s.p.f.Utils [main] hello : 1
+2023-05-09 15:34:03,076 INFO c.s.p.f.Utils [main] am : 1
+2023-05-09 15:34:03,077 INFO c.s.p.f.Utils [main] you : 2
+2023-05-09 15:34:59,525 INFO c.s.p.f.Utils [main] okay : 1
+2023-05-09 15:34:59,529 INFO c.s.p.f.Utils [main] how : 2
+2023-05-09 15:34:59,529 INFO c.s.p.f.Utils [main] Hello : 1
+2023-05-09 15:34:59,530 INFO c.s.p.f.Utils [main] are : 2
+2023-05-09 15:34:59,530 INFO c.s.p.f.Utils [main] I : 1
+2023-05-09 15:34:59,530 INFO c.s.p.f.Utils [main] hello : 1
+2023-05-09 15:34:59,530 INFO c.s.p.f.Utils [main] am : 1
+2023-05-09 15:34:59,530 INFO c.s.p.f.Utils [main] you : 2
+2023-05-09 15:35:31,151 INFO c.s.p.f.Utils [main] you : 2
+2023-05-09 15:37:32,739 INFO c.s.p.f.Utils [main] 
+2023-05-09 15:37:54,388 INFO c.s.p.f.Utils [main] 
+2023-05-09 15:39:30,420 INFO c.s.p.f.Utils [main] 
+2023-05-09 18:03:00,357 INFO c.s.p.t.Main [main] 
+Welcome John Marsh to RideAlong
+2023-05-09 18:03:00,360 INFO c.s.p.t.Main [main] 
+****************************************
+
+2023-05-09 18:03:00,360 INFO c.s.p.t.Main [main] To start a ride please enter your current address: 
+
+2023-05-09 18:03:00,360 INFO c.s.p.t.Main [main] Street: 
+2023-05-09 18:03:02,994 INFO c.s.p.t.Main [main] 
+City: 
+2023-05-09 18:03:04,019 INFO c.s.p.t.Main [main] 
+State: 
+2023-05-09 18:03:04,835 INFO c.s.p.t.Main [main] 
+ZipCode: 
+2023-05-09 18:03:05,573 INFO c.s.p.t.Main [main] 
+Now, where would you like to go?
+2023-05-09 18:03:05,573 INFO c.s.p.t.Main [main] 
+Street: 
+2023-05-09 18:03:06,629 INFO c.s.p.t.Main [main] 
+City: 
+2023-05-09 18:03:07,214 INFO c.s.p.t.Main [main] 
+State: 
+2023-05-09 18:03:07,733 INFO c.s.p.t.Main [main] 
+ZipCode: 
+2023-05-09 18:03:08,301 INFO c.s.p.t.Main [main] 
+Select a driver: 
+2023-05-09 18:03:08,303 INFO c.s.p.t.Main [main] 
+Gary Long: Rating{numberOfStars=5, reviews=[review='Gary was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-09 18:03:08,304 INFO c.s.p.t.Main [main] 
+Alex Albon: Rating{numberOfStars=3, reviews=[review='Alex was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-09 18:03:08,304 INFO c.s.p.t.Main [main] 
+Please enter the number corresponding to driver: 
+2023-05-09 18:04:05,867 INFO c.s.p.t.Main [main] 
+Welcome John Marsh to RideAlong
+2023-05-09 18:04:05,870 INFO c.s.p.t.Main [main] 
+****************************************
+
+2023-05-09 18:04:05,870 INFO c.s.p.t.Main [main] To start a ride please enter your current address: 
+
+2023-05-09 18:04:05,871 INFO c.s.p.t.Main [main] Street: 
+2023-05-09 18:04:10,501 INFO c.s.p.t.Main [main] 
+City: 
+2023-05-09 18:04:10,844 INFO c.s.p.t.Main [main] 
+State: 
+2023-05-09 18:04:11,106 INFO c.s.p.t.Main [main] 
+ZipCode: 
+2023-05-09 18:04:11,434 INFO c.s.p.t.Main [main] 
+Now, where would you like to go?
+2023-05-09 18:04:11,434 INFO c.s.p.t.Main [main] 
+Street: 
+2023-05-09 18:04:12,722 INFO c.s.p.t.Main [main] 
+City: 
+2023-05-09 18:04:13,033 INFO c.s.p.t.Main [main] 
+State: 
+2023-05-09 18:04:13,329 INFO c.s.p.t.Main [main] 
+ZipCode: 
+2023-05-09 18:04:14,114 INFO c.s.p.t.Main [main] 
+Select a driver: 
+2023-05-09 18:04:14,115 INFO c.s.p.t.Main [main] 
+Gary Long: Rating{numberOfStars=5, reviews=[review='Gary was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-09 18:04:14,116 INFO c.s.p.t.Main [main] 
+Alex Albon: Rating{numberOfStars=3, reviews=[review='Alex was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-09 18:04:14,116 INFO c.s.p.t.Main [main] 
+Please enter the number corresponding to driver: 
+2023-05-09 18:04:15,933 INFO c.s.p.t.Company [main] 
+Gary Long has been notified of your ride.
+2023-05-09 18:04:15,933 INFO c.s.p.t.Main [main] 
+
+
+2023-05-09 18:04:15,933 INFO c.s.p.t.Main [main] Here are the details to your ride:
+2023-05-09 18:04:15,940 INFO c.s.p.t.Main [main] Ride{
+Current Location=Address{street='a', city='a', country='a', zipCode='a'},
+ Destination=Address{street='q', city='q', country='q', zipCode='q'},
+ Driver=Driver{rating=Rating{numberOfStars=5, reviews=[review='Gary was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}, vehicle=com.solvd.project.taxicompany.Compact@57cf54e1},
+ Passenger=Passenger{rating=Rating{numberOfStars=4, reviews=[review='John was an excellent passenger.'}, review='Was a pleasure to have.'}, review='Great passenger.'}]}}}
+2023-05-09 18:04:15,940 INFO c.s.p.t.Main [main] 
+
+
+2023-05-09 18:04:15,940 INFO c.s.p.t.Driver [main] 
+Gary is on his way to your location
+2023-05-09 18:04:15,940 INFO c.s.p.t.Main [main] 
+Couple minutes later...
+
+
+2023-05-09 18:04:15,941 INFO c.s.p.t.Driver [main] 
+Gary has arrived at your location
+2023-05-09 18:04:15,941 INFO c.s.p.t.Main [main] 
+Couple more minutes later...
+
+
+2023-05-09 18:04:15,941 INFO c.s.p.t.Ride [main] 
+You have arrived to your destination
+2023-05-09 18:04:15,942 INFO c.s.p.t.Main [main] 
+Your ride cost: 15.0
+2023-05-09 18:04:15,942 INFO c.s.p.t.Passenger [main] 
+Passenger successfully paid 15.0
+2023-05-09 18:04:15,942 INFO c.s.p.t.Main [main] 
+ ********************
+Add a review for the driver below: 
+2023-05-09 18:22:51,440 INFO c.s.p.t.Main [main] 
+Welcome John Marsh to RideAlong
+2023-05-09 18:22:51,444 INFO c.s.p.t.Main [main] 
+****************************************
+
+2023-05-09 18:22:51,444 INFO c.s.p.t.Main [main] To start a ride please enter your current address: 
+
+2023-05-09 18:22:51,445 INFO c.s.p.t.Main [main] Street: 
+2023-05-09 18:22:53,726 INFO c.s.p.t.Main [main] 
+City: 
+2023-05-09 18:22:54,077 INFO c.s.p.t.Main [main] 
+State: 
+2023-05-09 18:22:54,350 INFO c.s.p.t.Main [main] 
+ZipCode: 
+2023-05-09 18:22:54,653 INFO c.s.p.t.Main [main] 
+Now, where would you like to go?
+2023-05-09 18:22:54,654 INFO c.s.p.t.Main [main] 
+Street: 
+2023-05-09 18:22:57,294 INFO c.s.p.t.Main [main] 
+City: 
+2023-05-09 18:22:57,613 INFO c.s.p.t.Main [main] 
+State: 
+2023-05-09 18:22:57,879 INFO c.s.p.t.Main [main] 
+ZipCode: 
+2023-05-09 18:22:58,461 INFO c.s.p.t.Main [main] 
+Select a driver: 
+2023-05-09 18:22:58,462 INFO c.s.p.t.Main [main] 
+Gary Long: Rating{numberOfStars=5, reviews=[review='Gary was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-09 18:22:58,462 INFO c.s.p.t.Main [main] 
+Alex Albon: Rating{numberOfStars=3, reviews=[review='Alex was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-09 18:22:58,463 INFO c.s.p.t.Main [main] 
+Please select a driver: 
+2023-05-09 18:23:00,398 ERROR c.s.p.t.Main [main] That is not a valid choice.
+2023-05-09 18:23:00,399 INFO c.s.p.t.Company [main] 
+Alex Albon has been notified of your ride.
+2023-05-09 18:23:00,400 INFO c.s.p.t.Main [main] 
+
+
+2023-05-09 18:23:00,400 INFO c.s.p.t.Main [main] Here are the details to your ride:
+2023-05-09 18:23:00,406 INFO c.s.p.t.Main [main] Ride{
+Current Location=Address{street='a', city='a', country='a', zipCode='a'},
+ Destination=Address{street='q', city='q', country='q', zipCode='q'},
+ Driver=Driver{rating=Rating{numberOfStars=3, reviews=[review='Alex was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}, vehicle=com.solvd.project.taxicompany.SUV@5b03b9fe},
+ Passenger=Passenger{rating=Rating{numberOfStars=4, reviews=[review='John was an excellent passenger.'}, review='Was a pleasure to have.'}, review='Great passenger.'}]}}}
+2023-05-09 18:23:00,406 INFO c.s.p.t.Main [main] 
+
+
+2023-05-09 18:23:00,407 INFO c.s.p.t.Driver [main] 
+Alex is on his way to your location
+2023-05-09 18:23:00,407 INFO c.s.p.t.Main [main] 
+Couple minutes later...
+
+
+2023-05-09 18:23:00,407 INFO c.s.p.t.Driver [main] 
+Alex has arrived at your location
+2023-05-09 18:23:00,407 INFO c.s.p.t.Main [main] 
+Couple more minutes later...
+
+
+2023-05-09 18:23:00,408 INFO c.s.p.t.Ride [main] 
+Ride has been completed
+2023-05-09 18:23:00,410 INFO c.s.p.t.Main [main] 
+Your ride cost: 20.0
+2023-05-09 18:23:00,410 INFO c.s.p.t.Passenger [main] 
+Passenger successfully paid 20.0
+2023-05-09 18:23:00,410 INFO c.s.p.t.Main [main] 
+ ********************
+Add a review for the driver below: 
+2023-05-09 18:26:59,085 INFO c.s.p.t.Main [main] 
+Welcome John Marsh to RideAlong
+2023-05-09 18:26:59,089 INFO c.s.p.t.Main [main] 
+****************************************
+
+2023-05-09 18:26:59,089 INFO c.s.p.t.Main [main] To start a ride please enter your current address: 
+
+2023-05-09 18:26:59,089 INFO c.s.p.t.Main [main] Street: 
+2023-05-09 18:27:01,469 INFO c.s.p.t.Main [main] 
+City: 
+2023-05-09 18:27:01,949 INFO c.s.p.t.Main [main] 
+State: 
+2023-05-09 18:27:02,381 INFO c.s.p.t.Main [main] 
+ZipCode: 
+2023-05-09 18:27:02,910 INFO c.s.p.t.Main [main] 
+Now, where would you like to go?
+2023-05-09 18:27:02,910 INFO c.s.p.t.Main [main] 
+Street: 
+2023-05-09 18:27:04,060 INFO c.s.p.t.Main [main] 
+City: 
+2023-05-09 18:27:04,527 INFO c.s.p.t.Main [main] 
+State: 
+2023-05-09 18:27:05,006 INFO c.s.p.t.Main [main] 
+ZipCode: 
+2023-05-09 18:27:05,500 INFO c.s.p.t.Main [main] 
+Select a driver: 
+2023-05-09 18:27:05,502 INFO c.s.p.t.Main [main] 
+Gary Long: Rating{numberOfStars=5, reviews=[review='Gary was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-09 18:27:05,502 INFO c.s.p.t.Main [main] 
+Alex Albon: Rating{numberOfStars=3, reviews=[review='Alex was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}
+2023-05-09 18:27:05,502 INFO c.s.p.t.Main [main] 
+Please select a driver: 
+2023-05-09 18:27:08,591 ERROR c.s.p.t.Main [main] That is not a valid choice.
+2023-05-09 18:27:08,592 INFO c.s.p.t.Company [main] 
+Alex Albon has been notified of your ride.
+2023-05-09 18:27:08,596 INFO c.s.p.t.Company [main] 
+Ride is being dispatched
+2023-05-09 18:27:08,596 INFO c.s.p.t.Main [main] 
+
+
+2023-05-09 18:27:08,596 INFO c.s.p.t.Main [main] Here are the details to your ride:
+2023-05-09 18:27:08,603 INFO c.s.p.t.Main [main] Ride{
+Current Location=Address{street='a', city='a', country='a', zipCode='a'},
+ Destination=Address{street='q', city='q', country='q', zipCode='q'},
+ Driver=Driver{rating=Rating{numberOfStars=3, reviews=[review='Alex was an excellent driver.'}, review='Was a pleasure to have as my driver.'}]}, vehicle=com.solvd.project.taxicompany.SUV@37d4349f},
+ Passenger=Passenger{rating=Rating{numberOfStars=4, reviews=[review='John was an excellent passenger.'}, review='Was a pleasure to have.'}, review='Great passenger.'}]}}}
+2023-05-09 18:27:08,604 INFO c.s.p.t.Main [main] 
+
+
+2023-05-09 18:27:08,604 INFO c.s.p.t.Driver [main] 
+Alex is on his way to your location
+2023-05-09 18:27:08,604 INFO c.s.p.t.Driver [main] 
+Ride is on the way
+2023-05-09 18:27:08,604 INFO c.s.p.t.Main [main] 
+Couple minutes later...
+
+
+2023-05-09 18:27:08,605 INFO c.s.p.t.Driver [main] 
+Alex has arrived at your location
+2023-05-09 18:27:08,612 INFO c.s.p.t.Driver [main] 
+Ride has arrived
+2023-05-09 18:27:08,612 INFO c.s.p.t.Main [main] 
+Couple more minutes later...
+
+
+2023-05-09 18:27:08,612 INFO c.s.p.t.Ride [main] 
+Ride has been completed
+2023-05-09 18:27:08,613 INFO c.s.p.t.Main [main] 
+Your ride cost: 20.0
+2023-05-09 18:27:08,614 INFO c.s.p.t.Passenger [main] 
+Passenger successfully paid 20.0
+2023-05-09 18:27:08,614 INFO c.s.p.t.Main [main] 
+ ********************
+Add a review for the driver below: 
+2023-05-10 08:24:22,423 INFO c.s.p.l.LambdaPractice [main] Hello
+2023-05-10 08:24:22,427 INFO c.s.p.l.LambdaPractice [main] how
+2023-05-10 08:24:22,427 INFO c.s.p.l.LambdaPractice [main] are
+2023-05-10 08:24:22,427 INFO c.s.p.l.LambdaPractice [main] you
+2023-05-10 08:24:22,429 INFO c.s.p.l.LambdaPractice [main] 5
+2023-05-10 08:24:22,429 INFO c.s.p.l.LambdaPractice [main] 10
+2023-05-10 08:24:22,429 INFO c.s.p.l.LambdaPractice [main] 15
+2023-05-10 08:24:22,429 INFO c.s.p.l.LambdaPractice [main] 20
+2023-05-10 08:24:22,429 INFO c.s.p.l.LambdaPractice [main] 30
+2023-05-10 08:24:22,429 INFO c.s.p.l.LambdaPractice [main] 40
+2023-05-10 08:24:22,430 INFO c.s.p.l.LambdaPractice [main] 60
+2023-05-10 08:24:22,430 INFO c.s.p.l.LambdaPractice [main] 70
+2023-05-10 08:24:22,430 INFO c.s.p.l.LambdaPractice [main] 80
+2023-05-10 08:24:22,430 INFO c.s.p.l.LambdaPractice [main] 90
+2023-05-10 08:24:22,430 INFO c.s.p.l.LambdaPractice [main] 100
+2023-05-10 08:24:46,414 INFO c.s.p.l.LambdaPractice [main] Hello
+2023-05-10 08:24:46,417 INFO c.s.p.l.LambdaPractice [main] how
+2023-05-10 08:24:46,417 INFO c.s.p.l.LambdaPractice [main] are
+2023-05-10 08:24:46,417 INFO c.s.p.l.LambdaPractice [main] you
+2023-05-10 08:24:46,418 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-10 08:24:46,418 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-10 08:24:46,418 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-10 08:24:46,418 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-10 08:24:46,418 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-10 08:24:46,418 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-10 08:24:46,419 INFO c.s.p.l.LambdaPractice [main] 60
+
+2023-05-10 08:24:46,419 INFO c.s.p.l.LambdaPractice [main] 70
+
+2023-05-10 08:24:46,419 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-10 08:24:46,419 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-10 08:24:46,419 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:24:57,461 INFO c.s.p.l.LambdaPractice [main] Hello
+2023-05-11 14:24:57,463 INFO c.s.p.l.LambdaPractice [main] how
+2023-05-11 14:24:57,463 INFO c.s.p.l.LambdaPractice [main] are
+2023-05-11 14:24:57,464 INFO c.s.p.l.LambdaPractice [main] you
+2023-05-11 14:24:57,464 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-11 14:24:57,465 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-11 14:24:57,465 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-11 14:24:57,465 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-11 14:24:57,465 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-11 14:24:57,465 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-11 14:24:57,465 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:24:57,466 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-11 14:24:57,466 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-11 14:24:57,466 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:24:57,467 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:24:57,468 INFO c.s.p.l.LambdaPractice [main] 25
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 100
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 225
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 400
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 900
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 1600
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 2500
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 3600
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 4900
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 6400
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 8100
+2023-05-11 14:24:57,469 INFO c.s.p.l.LambdaPractice [main] 10000
+2023-05-11 14:25:33,782 INFO c.s.p.l.LambdaPractice [main] Hello
+2023-05-11 14:25:33,785 INFO c.s.p.l.LambdaPractice [main] how
+2023-05-11 14:25:33,785 INFO c.s.p.l.LambdaPractice [main] are
+2023-05-11 14:25:33,785 INFO c.s.p.l.LambdaPractice [main] you
+2023-05-11 14:25:33,786 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-11 14:25:33,786 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-11 14:25:33,786 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-11 14:25:33,787 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-11 14:25:33,787 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-11 14:25:33,787 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-11 14:25:33,787 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:25:33,788 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-11 14:25:33,788 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-11 14:25:33,788 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:25:33,789 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:25:33,791 INFO c.s.p.l.LambdaPractice [main] 25
+2023-05-11 14:25:33,791 INFO c.s.p.l.LambdaPractice [main] 100
+2023-05-11 14:25:33,791 INFO c.s.p.l.LambdaPractice [main] 225
+2023-05-11 14:25:33,791 INFO c.s.p.l.LambdaPractice [main] 400
+2023-05-11 14:25:33,791 INFO c.s.p.l.LambdaPractice [main] 900
+2023-05-11 14:25:33,791 INFO c.s.p.l.LambdaPractice [main] 1600
+2023-05-11 14:25:33,792 INFO c.s.p.l.LambdaPractice [main] 2500
+2023-05-11 14:25:33,792 INFO c.s.p.l.LambdaPractice [main] 3600
+2023-05-11 14:25:33,792 INFO c.s.p.l.LambdaPractice [main] 4900
+2023-05-11 14:25:33,792 INFO c.s.p.l.LambdaPractice [main] 6400
+2023-05-11 14:25:33,792 INFO c.s.p.l.LambdaPractice [main] 8100
+2023-05-11 14:25:33,792 INFO c.s.p.l.LambdaPractice [main] 10000
+2023-05-11 14:26:23,921 INFO c.s.p.l.LambdaPractice [main] Hello
+
+2023-05-11 14:26:23,925 INFO c.s.p.l.LambdaPractice [main] how
+
+2023-05-11 14:26:23,925 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-11 14:26:23,925 INFO c.s.p.l.LambdaPractice [main] you
+
+2023-05-11 14:26:23,926 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-11 14:26:23,926 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-11 14:26:23,926 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-11 14:26:23,926 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-11 14:26:23,926 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-11 14:26:23,927 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-11 14:26:23,927 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:26:23,927 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-11 14:26:23,927 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-11 14:26:23,928 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:26:23,929 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:26:23,930 INFO c.s.p.l.LambdaPractice [main] 25
+
+2023-05-11 14:26:23,930 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:26:23,930 INFO c.s.p.l.LambdaPractice [main] 225
+
+2023-05-11 14:26:23,930 INFO c.s.p.l.LambdaPractice [main] 400
+
+2023-05-11 14:26:23,930 INFO c.s.p.l.LambdaPractice [main] 900
+
+2023-05-11 14:26:23,930 INFO c.s.p.l.LambdaPractice [main] 1600
+
+2023-05-11 14:26:23,931 INFO c.s.p.l.LambdaPractice [main] 2500
+
+2023-05-11 14:26:23,931 INFO c.s.p.l.LambdaPractice [main] 3600
+
+2023-05-11 14:26:23,931 INFO c.s.p.l.LambdaPractice [main] 4900
+
+2023-05-11 14:26:23,931 INFO c.s.p.l.LambdaPractice [main] 6400
+
+2023-05-11 14:26:23,931 INFO c.s.p.l.LambdaPractice [main] 8100
+
+2023-05-11 14:26:23,931 INFO c.s.p.l.LambdaPractice [main] 10000
+
+2023-05-11 14:30:32,437 INFO c.s.p.l.LambdaPractice [main] Hello
+
+2023-05-11 14:30:32,440 INFO c.s.p.l.LambdaPractice [main] how
+
+2023-05-11 14:30:32,440 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-11 14:30:32,440 INFO c.s.p.l.LambdaPractice [main] you
+
+2023-05-11 14:30:32,441 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-11 14:30:32,441 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-11 14:30:32,442 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-11 14:30:32,442 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-11 14:30:32,442 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-11 14:30:32,442 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-11 14:30:32,442 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:30:32,443 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-11 14:30:32,443 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-11 14:30:32,443 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:30:32,445 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:30:32,445 INFO c.s.p.l.LambdaPractice [main] 25
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 225
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 400
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 900
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 1600
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 2500
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 3600
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 4900
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 6400
+
+2023-05-11 14:30:32,446 INFO c.s.p.l.LambdaPractice [main] 8100
+
+2023-05-11 14:30:32,447 INFO c.s.p.l.LambdaPractice [main] 10000
+
+2023-05-11 14:30:32,447 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:30:32,448 INFO c.s.p.l.LambdaPractice [main] Hello
+
+2023-05-11 14:30:32,448 INFO c.s.p.l.LambdaPractice [main] how
+
+2023-05-11 14:30:32,449 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-11 14:30:32,449 INFO c.s.p.l.LambdaPractice [main] you
+
+2023-05-11 14:32:40,999 INFO c.s.p.l.LambdaPractice [main] Hello
+
+2023-05-11 14:32:41,002 INFO c.s.p.l.LambdaPractice [main] how
+
+2023-05-11 14:32:41,002 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-11 14:32:41,002 INFO c.s.p.l.LambdaPractice [main] you
+
+2023-05-11 14:32:41,003 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-11 14:32:41,004 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-11 14:32:41,004 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-11 14:32:41,004 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-11 14:32:41,004 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-11 14:32:41,004 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-11 14:32:41,004 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:32:41,005 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-11 14:32:41,005 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-11 14:32:41,005 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:32:41,007 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:32:41,008 INFO c.s.p.l.LambdaPractice [main] 25
+
+2023-05-11 14:32:41,008 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-11 14:32:41,008 INFO c.s.p.l.LambdaPractice [main] 225
+
+2023-05-11 14:32:41,008 INFO c.s.p.l.LambdaPractice [main] 400
+
+2023-05-11 14:32:41,008 INFO c.s.p.l.LambdaPractice [main] 900
+
+2023-05-11 14:32:41,008 INFO c.s.p.l.LambdaPractice [main] 1600
+
+2023-05-11 14:32:41,009 INFO c.s.p.l.LambdaPractice [main] 2500
+
+2023-05-11 14:32:41,009 INFO c.s.p.l.LambdaPractice [main] 3600
+
+2023-05-11 14:32:41,009 INFO c.s.p.l.LambdaPractice [main] 4900
+
+2023-05-11 14:32:41,009 INFO c.s.p.l.LambdaPractice [main] 6400
+
+2023-05-11 14:32:41,009 INFO c.s.p.l.LambdaPractice [main] 8100
+
+2023-05-11 14:32:41,010 INFO c.s.p.l.LambdaPractice [main] 10000
+
+2023-05-11 14:32:41,010 INFO c.s.p.l.LambdaPractice [main] ------------------------
+2023-05-11 14:32:41,011 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-12 14:22:58,894 INFO c.s.p.r.Reflection [main] public boolean com.solvd.project.taxicompany.Passenger.equals(java.lang.Object)
+2023-05-12 14:22:58,898 INFO c.s.p.r.Reflection [main] public java.lang.String com.solvd.project.taxicompany.Passenger.toString()
+2023-05-12 14:22:58,898 INFO c.s.p.r.Reflection [main] public int com.solvd.project.taxicompany.Passenger.hashCode()
+2023-05-12 14:22:58,898 INFO c.s.p.r.Reflection [main] public com.solvd.project.taxicompany.Account com.solvd.project.taxicompany.Passenger.getAccount()
+2023-05-12 14:22:58,898 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Passenger.setRating(com.solvd.project.taxicompany.Rating)
+2023-05-12 14:22:58,898 INFO c.s.p.r.Reflection [main] public com.solvd.project.taxicompany.Rating com.solvd.project.taxicompany.Passenger.getRating()
+2023-05-12 14:22:58,898 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Passenger.setAccount(com.solvd.project.taxicompany.Account)
+2023-05-12 14:22:58,898 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Passenger.pay(java.lang.Double)
+2023-05-12 14:23:51,835 INFO c.s.p.r.Reflection [main] public boolean com.solvd.project.taxicompany.Passenger.equals(java.lang.Object)
+
+2023-05-12 14:23:51,838 INFO c.s.p.r.Reflection [main] public java.lang.String com.solvd.project.taxicompany.Passenger.toString()
+
+2023-05-12 14:23:51,838 INFO c.s.p.r.Reflection [main] public int com.solvd.project.taxicompany.Passenger.hashCode()
+
+2023-05-12 14:23:51,838 INFO c.s.p.r.Reflection [main] public com.solvd.project.taxicompany.Rating com.solvd.project.taxicompany.Passenger.getRating()
+
+2023-05-12 14:23:51,838 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Passenger.setAccount(com.solvd.project.taxicompany.Account)
+
+2023-05-12 14:23:51,838 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Passenger.setRating(com.solvd.project.taxicompany.Rating)
+
+2023-05-12 14:23:51,839 INFO c.s.p.r.Reflection [main] public com.solvd.project.taxicompany.Account com.solvd.project.taxicompany.Passenger.getAccount()
+
+2023-05-12 14:23:51,839 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Passenger.pay(java.lang.Double)
+
+2023-05-12 14:27:41,352 INFO c.s.p.r.Reflection [main] public com.solvd.project.taxicompany.Passenger()
+
+2023-05-12 14:27:41,355 INFO c.s.p.r.Reflection [main] public com.solvd.project.taxicompany.Passenger(java.lang.String,java.lang.String,java.lang.Integer,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+
+2023-05-12 14:37:08,027 INFO c.s.p.r.Reflection [main] public java.lang.String com.solvd.project.taxicompany.Review.toString()
+
+2023-05-12 14:37:08,029 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Review.setReview(java.lang.String)
+
+2023-05-12 14:37:08,029 INFO c.s.p.r.Reflection [main] public java.lang.String com.solvd.project.taxicompany.Review.getReview()
+
+2023-05-12 14:37:08,029 INFO c.s.p.r.Reflection [main] review='Everything is good'}
+2023-05-12 14:46:00,406 INFO c.s.p.r.Reflection [main] public java.lang.String com.solvd.project.taxicompany.Review.toString()
+
+2023-05-12 14:46:00,412 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Review.setReview(java.lang.String)
+
+2023-05-12 14:46:00,412 INFO c.s.p.r.Reflection [main] public java.lang.String com.solvd.project.taxicompany.Review.getReview()
+
+2023-05-12 14:46:00,413 INFO c.s.p.r.Reflection [main] review='Review has changed now'}
+2023-05-12 14:46:40,141 INFO c.s.p.r.Reflection [main] public java.lang.String com.solvd.project.taxicompany.Review.toString()
+
+2023-05-12 14:46:40,145 INFO c.s.p.r.Reflection [main] public void com.solvd.project.taxicompany.Review.setReview(java.lang.String)
+
+2023-05-12 14:46:40,146 INFO c.s.p.r.Reflection [main] public java.lang.String com.solvd.project.taxicompany.Review.getReview()
+
+2023-05-12 14:46:40,147 INFO c.s.p.r.Reflection [main] review='Everything is good'}
+
+2023-05-12 14:46:40,147 INFO c.s.p.r.Reflection [main] review='Review has changed now'}
+2023-05-15 13:46:39,110 INFO c.s.p.l.LambdaPractice [main] Hello
+
+2023-05-15 13:46:39,115 INFO c.s.p.l.LambdaPractice [main] how
+
+2023-05-15 13:46:39,116 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-15 13:46:39,116 INFO c.s.p.l.LambdaPractice [main] you
+
+2023-05-15 13:46:39,117 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-15 13:46:39,117 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-15 13:46:39,117 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-15 13:46:39,117 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-15 13:46:39,118 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-15 13:46:39,118 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-15 13:46:39,118 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 13:46:39,119 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-15 13:46:39,119 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-15 13:46:39,120 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-15 13:46:39,122 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 13:46:39,123 INFO c.s.p.l.LambdaPractice [main] 25
+
+2023-05-15 13:46:39,123 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-15 13:46:39,123 INFO c.s.p.l.LambdaPractice [main] 225
+
+2023-05-15 13:46:39,123 INFO c.s.p.l.LambdaPractice [main] 400
+
+2023-05-15 13:46:39,124 INFO c.s.p.l.LambdaPractice [main] 900
+
+2023-05-15 13:46:39,124 INFO c.s.p.l.LambdaPractice [main] 1600
+
+2023-05-15 13:46:39,124 INFO c.s.p.l.LambdaPractice [main] 2500
+
+2023-05-15 13:46:39,124 INFO c.s.p.l.LambdaPractice [main] 3600
+
+2023-05-15 13:46:39,124 INFO c.s.p.l.LambdaPractice [main] 4900
+
+2023-05-15 13:46:39,125 INFO c.s.p.l.LambdaPractice [main] 6400
+
+2023-05-15 13:46:39,125 INFO c.s.p.l.LambdaPractice [main] 8100
+
+2023-05-15 13:46:39,125 INFO c.s.p.l.LambdaPractice [main] 10000
+
+2023-05-15 13:46:39,125 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 13:46:39,127 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-15 13:46:39,131 INFO c.s.p.l.LambdaPractice [main] g01
+2023-05-15 13:46:39,131 INFO c.s.p.l.LambdaPractice [main] g04
+2023-05-15 20:26:44,443 INFO c.s.p.l.LambdaPractice [main] Hello
+
+2023-05-15 20:26:44,445 INFO c.s.p.l.LambdaPractice [main] how
+
+2023-05-15 20:26:44,445 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-15 20:26:44,445 INFO c.s.p.l.LambdaPractice [main] you
+
+2023-05-15 20:26:44,446 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-15 20:26:44,446 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-15 20:26:44,446 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-15 20:26:44,446 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-15 20:26:44,446 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-15 20:26:44,446 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-15 20:26:44,447 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 20:26:44,447 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-15 20:26:44,447 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-15 20:26:44,447 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-15 20:26:44,447 INFO c.s.p.l.LambdaPractice [main] ---------------------------------
+
+2023-05-15 20:26:44,448 INFO c.s.p.l.LambdaPractice [main] 50
+2023-05-15 20:26:44,449 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 25
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 225
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 400
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 900
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 1600
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 2500
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 3600
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 4900
+
+2023-05-15 20:26:44,450 INFO c.s.p.l.LambdaPractice [main] 6400
+
+2023-05-15 20:26:44,451 INFO c.s.p.l.LambdaPractice [main] 8100
+
+2023-05-15 20:26:44,451 INFO c.s.p.l.LambdaPractice [main] 10000
+
+2023-05-15 20:26:44,451 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 20:26:44,451 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-15 20:26:44,451 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 20:26:44,454 INFO c.s.p.l.LambdaPractice [main] g01
+
+2023-05-15 20:26:44,454 INFO c.s.p.l.LambdaPractice [main] g04
+
+2023-05-15 20:27:26,396 INFO c.s.p.l.LambdaPractice [main] Hello
+
+2023-05-15 20:27:26,398 INFO c.s.p.l.LambdaPractice [main] how
+
+2023-05-15 20:27:26,399 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-15 20:27:26,399 INFO c.s.p.l.LambdaPractice [main] you
+
+2023-05-15 20:27:26,399 INFO c.s.p.l.LambdaPractice [main] 5
+
+2023-05-15 20:27:26,399 INFO c.s.p.l.LambdaPractice [main] 10
+
+2023-05-15 20:27:26,400 INFO c.s.p.l.LambdaPractice [main] 15
+
+2023-05-15 20:27:26,400 INFO c.s.p.l.LambdaPractice [main] 20
+
+2023-05-15 20:27:26,400 INFO c.s.p.l.LambdaPractice [main] 30
+
+2023-05-15 20:27:26,400 INFO c.s.p.l.LambdaPractice [main] 40
+
+2023-05-15 20:27:26,400 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 20:27:26,401 INFO c.s.p.l.LambdaPractice [main] 80
+
+2023-05-15 20:27:26,401 INFO c.s.p.l.LambdaPractice [main] 90
+
+2023-05-15 20:27:26,401 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-15 20:27:26,401 INFO c.s.p.l.LambdaPractice [main] ---------------------------------
+
+2023-05-15 20:27:26,402 INFO c.s.p.l.LambdaPractice [main] 50 calculate
+2023-05-15 20:27:26,403 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 20:27:26,404 INFO c.s.p.l.LambdaPractice [main] 25
+
+2023-05-15 20:27:26,404 INFO c.s.p.l.LambdaPractice [main] 100
+
+2023-05-15 20:27:26,404 INFO c.s.p.l.LambdaPractice [main] 225
+
+2023-05-15 20:27:26,404 INFO c.s.p.l.LambdaPractice [main] 400
+
+2023-05-15 20:27:26,404 INFO c.s.p.l.LambdaPractice [main] 900
+
+2023-05-15 20:27:26,404 INFO c.s.p.l.LambdaPractice [main] 1600
+
+2023-05-15 20:27:26,405 INFO c.s.p.l.LambdaPractice [main] 2500
+
+2023-05-15 20:27:26,405 INFO c.s.p.l.LambdaPractice [main] 3600
+
+2023-05-15 20:27:26,405 INFO c.s.p.l.LambdaPractice [main] 4900
+
+2023-05-15 20:27:26,405 INFO c.s.p.l.LambdaPractice [main] 6400
+
+2023-05-15 20:27:26,405 INFO c.s.p.l.LambdaPractice [main] 8100
+
+2023-05-15 20:27:26,405 INFO c.s.p.l.LambdaPractice [main] 10000
+
+2023-05-15 20:27:26,405 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 20:27:26,406 INFO c.s.p.l.LambdaPractice [main] are
+
+2023-05-15 20:27:26,407 INFO c.s.p.l.LambdaPractice [main] ------------------------
+
+2023-05-15 20:27:26,410 INFO c.s.p.l.LambdaPractice [main] g01
+
+2023-05-15 20:27:26,410 INFO c.s.p.l.LambdaPractice [main] g04
+
+2023-05-16 17:24:33,208 INFO c.s.p.c.Threads [Thread-0] This is the runnable thread
+2023-05-16 17:27:57,299 INFO c.s.p.c.Threads [Thread-0] This is the runnable thread
+2023-05-16 17:27:57,301 INFO c.s.p.c.Threads [Thread-1] This is from Thread class
+2023-05-16 18:07:38,535 INFO c.s.p.c.Threads [Thread-1] This is from Thread class
+
+2023-05-16 18:07:38,535 INFO c.s.p.c.Threads [Thread-0] This is the runnable thread
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [pool-2-thread-5] Executing the run() method
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [pool-2-thread-6] Executing the run() method
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [pool-2-thread-2] Executing the run() method
+
+2023-05-16 18:07:51,085 INFO c.s.p.c.Threads [pool-2-thread-5] Executing the run() method
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [Thread-0] This is the runnable thread
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [pool-2-thread-1] Executing the run() method
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [pool-2-thread-4] Executing the run() method
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [pool-2-thread-7] Executing the run() method
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [Thread-1] This is from Thread class
+
+2023-05-16 18:07:51,082 INFO c.s.p.c.Threads [pool-2-thread-3] Executing the run() method
+
