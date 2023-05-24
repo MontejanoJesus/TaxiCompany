@@ -130,10 +130,8 @@ public class Main {
         company.dispatchDriver(employees.get(driverChoice - 1));
         logger.info("\n\n");
         logger.info("Here are the details to your ride:");
-        IDisplay rideDisplay = () -> {
-            return "From: " + ride.getStartingAddress().toString() + "\nTo: " + ride.getEndingAddress().toString() +
-                     "\nDriver " + ride.getDriver().getFirstName();
-        };
+        IDisplay rideDisplay = () -> "From: " + ride.getStartingAddress().toString() + "\nTo: " + ride.getEndingAddress().toString() +
+                 "\nDriver " + ride.getDriver().getFirstName();
         rideDisplay.display();
 
         logger.info("\n\n");
