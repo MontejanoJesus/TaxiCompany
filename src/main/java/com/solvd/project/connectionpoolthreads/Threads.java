@@ -3,11 +3,15 @@ package com.solvd.project.connectionpoolthreads;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.*;
 
 public class Threads {
     private static final Logger logger = LogManager.getLogger(Threads.class);
-    public static void main(String[] args) throws InterruptedException, ExecutionException {
+    public static void main(String[] args) throws InterruptedException, ExecutionException, SQLException {
         // Two ways to create threads
         Runnable r1 = () -> logger.info("This is the runnable thread\n");
         Thread thread1 = new Thread(r1);
@@ -17,13 +21,21 @@ public class Threads {
         });
         thread2.start();
 
-        // Thread pool
+        // Thread pool and ConnectionPool
+        ConnectionPool pool = ConnectionPool.getInstance();
         ThreadPoolExecutor threadPoolExecutor = (ThreadPoolExecutor) Executors.newFixedThreadPool(5);
+        List<Connection> connections = new ArrayList<>();
         for(int i = 0; i <= 5; i++) {
-            Runnable runnable = () -> logger.info("Executing thread pool threads\n");
+            Runnable runnable = () -> {
+                logger.info("Gathering connections from pool");
+            };
+            Callable<Connection> call = pool::getConnection;
+            connections.add(threadPoolExecutor.submit(call).get());
             threadPoolExecutor.execute(runnable);
         }
+
         threadPoolExecutor.shutdown();
+        pool.closeAllConnections();
 
         // Use of Future
         logger.info("----------------\n");
